@@ -1,8 +1,0 @@
-C:\Users\carlo\Desktop\Prueba2\Prueba-Migraciones\Persistens\bin\Debug\netcoreapp3.1\Persistens.deps.json
-C:\Users\carlo\Desktop\Prueba2\Prueba-Migraciones\Persistens\bin\Debug\netcoreapp3.1\Persistens.dll
-C:\Users\carlo\Desktop\Prueba2\Prueba-Migraciones\Persistens\obj\Debug\netcoreapp3.1\Persistens.csprojAssemblyReference.cache
-C:\Users\carlo\Desktop\Prueba2\Prueba-Migraciones\Persistens\obj\Debug\netcoreapp3.1\Persistens.AssemblyInfoInputs.cache
-C:\Users\carlo\Desktop\Prueba2\Prueba-Migraciones\Persistens\obj\Debug\netcoreapp3.1\Persistens.AssemblyInfo.cs
-C:\Users\carlo\Desktop\Prueba2\Prueba-Migraciones\Persistens\bin\Debug\netcoreapp3.1\Persistens.runtimeconfig.json
-C:\Users\carlo\Desktop\Prueba2\Prueba-Migraciones\Persistens\bin\Debug\netcoreapp3.1\Persistens.runtimeconfig.dev.json
-C:\Users\carlo\Desktop\Prueba2\Prueba-Migraciones\Persistens\obj\Debug\netcoreapp3.1\Persistens.genruntimeconfig.cache

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Prueba-Migraciones</name>
+    </assembly>
+    <members>
+        <member name="M:Prueba_Migraciones.Controllers.PersonaController.Get">
+             <summary>
+            este metodo me trae todas las personas
+             </summary>
+             <returns></returns>
+        </member>
+        <member name="M:Prueba_Migraciones.Controllers.PersonaController.Get(System.Int32)">
+            <summary>
+            Este metodo me captura el id de la persona
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Prueba_Migraciones.Controllers.PersonaController.Post(Prueba_Migraciones.Models.Persona)">
+             <summary>
+            este es el metodo de agregar persona
+             </summary>
+             <returns></returns>
+        </member>
+        <member name="M:Prueba_Migraciones.Controllers.PersonaController.Put(Prueba_Migraciones.Models.Persona)">
+            <summary>
+            este es el metodo de editar persona
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Prueba_Migraciones.Controllers.PersonaController.Delete(System.Int32)">
+            <summary>
+            este es el metodo de eliminar persona
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Prueba_Migraciones.Controllers.SolicitudController.Get">
+            <summary>
+            este metodo me trae todas las solicitudes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Prueba_Migraciones.Controllers.SolicitudController.Get(System.Int32)">
+            <summary>
+            Aqui capturo el id de la solicitud
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Prueba_Migraciones.Controllers.SolicitudController.Post(Prueba_Migraciones.Models.Solicitud)">
+            <summary>
+            este es el metodo de agregar una solicitud
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Prueba_Migraciones.Controllers.SolicitudController.Put(Prueba_Migraciones.Models.Solicitud)">
+            <summary>
+            este es el metodo de editar una solicitud
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Prueba_Migraciones.Controllers.SolicitudController.Delete(System.Int32)">
+            <summary>
+            este es el metodo de eliminar una solicitud
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
